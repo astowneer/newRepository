@@ -1,0 +1,14 @@
+C:\Users\Astowner\source\repos\forgit\forgit\bin\Debug\netcoreapp3.1\forgit.exe
+C:\Users\Astowner\source\repos\forgit\forgit\bin\Debug\netcoreapp3.1\forgit.deps.json
+C:\Users\Astowner\source\repos\forgit\forgit\bin\Debug\netcoreapp3.1\forgit.runtimeconfig.json
+C:\Users\Astowner\source\repos\forgit\forgit\bin\Debug\netcoreapp3.1\forgit.runtimeconfig.dev.json
+C:\Users\Astowner\source\repos\forgit\forgit\bin\Debug\netcoreapp3.1\forgit.dll
+C:\Users\Astowner\source\repos\forgit\forgit\bin\Debug\netcoreapp3.1\forgit.pdb
+C:\Users\Astowner\source\repos\forgit\forgit\obj\Debug\netcoreapp3.1\forgit.csproj.AssemblyReference.cache
+C:\Users\Astowner\source\repos\forgit\forgit\obj\Debug\netcoreapp3.1\forgit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Astowner\source\repos\forgit\forgit\obj\Debug\netcoreapp3.1\forgit.AssemblyInfoInputs.cache
+C:\Users\Astowner\source\repos\forgit\forgit\obj\Debug\netcoreapp3.1\forgit.AssemblyInfo.cs
+C:\Users\Astowner\source\repos\forgit\forgit\obj\Debug\netcoreapp3.1\forgit.csproj.CoreCompileInputs.cache
+C:\Users\Astowner\source\repos\forgit\forgit\obj\Debug\netcoreapp3.1\forgit.dll
+C:\Users\Astowner\source\repos\forgit\forgit\obj\Debug\netcoreapp3.1\forgit.pdb
+C:\Users\Astowner\source\repos\forgit\forgit\obj\Debug\netcoreapp3.1\forgit.genruntimeconfig.cache
